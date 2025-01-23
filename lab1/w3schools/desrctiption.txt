@@ -1,0 +1,10 @@
+Hello, I decided to make a complete page using all the tutorials from ws3chools
+
+html page title & favicon;
+html div element. i used a div to wrap the contents list, basically just to group them together.
+html lists. made a list with numbers and one with bullet points for the navigation and ideas.
+html tables to show how i avoid tasks (like a to-do list i'll never follow).
+html images. added a funny gif of a lazy student to match the vibe.
+html styles(css). changed some colors, made text bold or italic, and added a background color.
+html comments. added a hidden note for laughs
+html quotation. used to add a funny procrostination quote
